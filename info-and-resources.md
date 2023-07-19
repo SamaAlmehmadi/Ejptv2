@@ -251,7 +251,7 @@ evil-winrm //getting shell
 
 
 
-* Bash CVE-2014-6271 Vulnerability (Shellshock)-->PHP-cgi&#x20;
+* Bash CVE-2014-6271 Vulnerability (Shellshock)-->bash-cgi&#x20;
 
 <!---->
 
